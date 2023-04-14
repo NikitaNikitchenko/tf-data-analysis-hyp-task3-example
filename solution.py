@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import  mannwhitneyu
 
-chat_id = 7846643586 # Ваш chat ID, не меняйте название переменной
+chat_id = 784664358 # Ваш chat ID, не меняйте название переменной
 
 def solution(x, y) -> bool: # Одна или две выборке на входе, заполняется исходя из условия
     # Измените код этой функции
